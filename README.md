@@ -136,14 +136,7 @@ namespace TNT
 <p>
 
 <hr>
-<br>
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
-<p align='center'>
-<img src="https://github.com/thangdevalone/thangdevalone/blob/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
 <br>
 
 ##
