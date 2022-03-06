@@ -1,8 +1,8 @@
 # <p align="center">Trần Ngọc Tiến</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/thangdevalone">
+	<img src="https://avatars.githubusercontent.com/u/101063068?s=400&u=94afef8ffe6777b9840c6c66937272d37ee92125&v=4" width = "200" alt="TNT">
 	</a>
 </p>
 
@@ -15,13 +15,13 @@ namespace TNT
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
-            string Age = "2002";
+            string Name = "Nguyễn Quang Thắng";
+            string Age = "2003";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string Address = "Hà Nội, Việt Nam";
+            string University = "Trường Đại học Thăng Long - TLU";
+            string Skills = "C++, C#, Python, HTML, JavaScript";
+            string FamousQuotes = "Thời gian là vô giá đừng bỏ lỡ 1 phút nào";
         }
     }
 }
@@ -30,37 +30,34 @@ namespace TNT
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
+  <a href="https://www.facebook.com/Thag.wo/">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/ngoctienTNT">
+  <a href="https://github.com/thangdevalone">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://dev.to/ngoctientnt">
+  <a href="#">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
+  <a href="#">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+  <a href="mailto:quangthangvtlg@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
+  <a href="https://www.instagram.com/th_ang03/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+  <a href="https://www.tiktok.com/@thang123nqt">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
-  
-  <a href="https://www.youtube.com/c/ThienLongTNT">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
-  </a>
+
 </p>
 
 ## <p align="center">What I use :alien:</p>
@@ -68,31 +65,13 @@ namespace TNT
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="50%" align="center">
 	<a href="https://devdocs.io/cpp/">
 		<span>𝗖++</span><br><br><br>
 		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 	 </a>
       </td>
-      <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
-		<span>𝗖#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	<a href="https://docs.oracle.com/java/">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-	 </a>
-      </td>
-	<td width="20%" align="center">
-		<a href="https://dart.dev/guides">
-        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
+      <td width="50%" align="center">
 	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
@@ -100,31 +79,13 @@ namespace TNT
       </td>
     </tr>
     <tr valign="top">
-	<td width="20%" align="center">
+	<td width="50%" align="center">
 		<a href="https://code.visualstudio.com/docs">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
-	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
-	      </a>
-      </td>
-	    <td width="20%" align="center">
-	<a href="https://docs.flutter.dev/">
-		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
-	</a>
-      </td>
-      <td width="20%" align="center">
+      <td width="50%" align="center">
 	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -136,40 +97,34 @@ namespace TNT
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
-
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
-</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{thangdevalone}/count.svg" alt="thangdevalone :: Visitor's Count" /></p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangdevalone&langs_count=10&theme=tokyonight&layout=compact" alt="thangdevalone :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thangdevalone&show_icons=true&theme=tokyonight" alt="thangdevalone :: Profile Stats" /></p>
 
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
+<a href="#">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
+<a href="#">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
+<a href="#" margin="100">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
+<a href="#">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
