@@ -132,7 +132,7 @@ namespace TNT
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=thangdevalone&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -140,7 +140,7 @@ namespace TNT
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/thangdevalone/thangdevalone/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
