@@ -79,7 +79,7 @@ namespace alone
       </td>
 	<td width="33.33%" align="center">
 	      <a href="https://devdocs.io/javascript/">
-        	<span>**JavaScript**</span><br><br><br>
+        	<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         	<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 	      </a>
       </td>
