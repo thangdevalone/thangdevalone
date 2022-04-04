@@ -65,21 +65,21 @@ namespace alone
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="33.33%" align="center">
 	<a href="https://devdocs.io/cpp/">
 		<span>𝗖++</span><br><br><br>
 		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 	 </a>
       </td>
-      <td width="50%" align="center">
+      <td width="33.33%" align="center">
 	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 	      </a>
       </td>
-	<td width="50%" align="center">
+	<td width="33.33%" align="center">
 	      <a href="https://devdocs.io/javascript/">
-        	<span>JavaScript</span><br><br><br>
+        	<span>**JavaScript**</span><br><br><br>
         	<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 	      </a>
       </td>
