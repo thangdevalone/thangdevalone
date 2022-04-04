@@ -77,6 +77,12 @@ namespace alone
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 	      </a>
       </td>
+	<td width="50%" align="center">
+	      <a href="https://devdocs.io/javascript/">
+        	<span>JavaScript</span><br><br><br>
+        	<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+	      </a>
+      </td>
     </tr>
     <tr valign="top">
 	<td width="50%" align="center">
