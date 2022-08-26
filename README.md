@@ -2,9 +2,8 @@
 
 <p align="center">
 	<a href="https://github.com/thangdevalone">
-	<img src="https://avatars.githubusercontent.com/u/101063068?s=400&u=94afef8ffe6777b9840c6c66937272d37ee92125&v=4" width = "200" alt="TNT">
+	<img src="https://avatars.githubusercontent.com/u/101063068?s=400&u=7f7bcd1d98a737df1327b47ac120c90fc5582546&v=4" width = "200" alt="TNT">
 	</a>
-</p>
 
 <h2 align="center">About me</h2>
 
