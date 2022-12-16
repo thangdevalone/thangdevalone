@@ -129,7 +129,7 @@ namespace alone
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=iottkb&theme=tokyonight" alt="ThangDev" />
 </a>
 	
-<a href="https://github.com/thangdevalone/nguyenlyhedieuhanhTLU">
+<a href="https://github.com/thangdevalone/TreasureHuntTLIT">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=TreasureHuntTLITd&theme=tokyonight" alt="ThangDev" />
 </a>
 </p>
