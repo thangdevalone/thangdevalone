@@ -130,7 +130,7 @@ namespace alone
 </a>
 	
 <a href="https://github.com/thangdevalone/TreasureHuntTLIT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=TreasureHuntTLITd&theme=tokyonight" alt="ThangDev" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=TreasureHuntTLIT&theme=tokyonight" alt="ThangDev" />
 </a>
 </p>
 
