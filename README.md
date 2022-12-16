@@ -115,30 +115,24 @@ namespace alone
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="#">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=tabUI&theme=tokyonight" alt="ThangDev" />
+<a href="https://github.com/thangdevalone/DataStructures-Algorithms">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=DataStructures-Algorithms&theme=tokyonight" alt="ThangDev" />
 </a>
 	
-<a href="#">
+<a href="https://github.com/thangdevalone/TimeTable">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=TimeTable&theme=tokyonight" alt="ThangDev" />
 </a>
 </p>
 
 <p align="center">	
-<a href="#" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=react-hook-basic&theme=tokyonight" alt="ThangDevT" />
+<a href="https://github.com/thangdevalone/iottkb" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=iottkb&theme=tokyonight" alt="ThangDev" />
 </a>
 	
-<a href="#">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=FormValidated&theme=tokyonight" alt="ThangDev" />
+<a href="https://github.com/thangdevalone/nguyenlyhedieuhanhTLU">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=thangdevalone&repo=TreasureHuntTLITd&theme=tokyonight" alt="ThangDev" />
 </a>
 </p>
-
-## <p align="center">Github Contributions 📈</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=thangdevalone&theme=react-dark&hide_border=true">
-<p>
 
 <hr>
 
