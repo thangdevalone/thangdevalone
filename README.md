@@ -48,7 +48,9 @@
 
 
 
-
+<h3> 🐍 My Contributions </h3>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thangdevalone/thangdevalone/output/github-contribution-grid-snake.svg" />
+  
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
