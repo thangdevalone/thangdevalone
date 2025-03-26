@@ -31,7 +31,7 @@
 - 💻 &nbsp; Python | JavaScript | TypeScript | React |  C++  | Nodejs 
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | Bootstrap  | Tailwind 
 - 🛢 &nbsp; MySQL | Firebase | Postman  | MongoDb
-- 🔧 &nbsp;  Visual Studio code  | Git | Docker| CICD Pipline
+- 🔧 &nbsp;  Visual Studio code  | Git | Docker | CICD Pipline
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thangdevalone&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
